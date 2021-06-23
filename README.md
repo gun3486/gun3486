@@ -1,4 +1,4 @@
-### Hi there 👋
+### 임준명 입니다👋
 
 <!--
 **gun3486/gun3486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
