@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gun3486)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gun3486&layout=compact)](https://github.com/gun3486/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gun3486&langs_count=4)](https://github.com/gun3486/github-readme-stats)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gun3486@gmail.com)](mailto:gun3486@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://https://www.youtube.com/channel/UCXtZl_ebFmAMDECcMSICp-g?view_as=subscriber)](https://www.youtube.com/channel/UCqwZUbteQhDByu8OrMP_xSg)
 
