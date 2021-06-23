@@ -2,7 +2,8 @@
 
 
 
-[![gun3486's GitHub stats](https://github-readme-stats.vercel.app/api?username=gun3486)](https://github.com/gun3486/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gun3486)](https://github.com/gun3486)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gun3486&langs_count=4)](https://github.com/gun3486/github-readme-stats)
 
