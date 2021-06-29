@@ -2,11 +2,11 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gun3486)](https://github.com/gun3486/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gun3486)](https://github.com/gun3486)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gun3486)](https://github.com/gun3486/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gun3486)](https://github.com/gun3486)
 
 <p>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
